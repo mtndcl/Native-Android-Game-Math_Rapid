@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".aboutpanel.About">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="RtlHardcoded,UselessParent"
+        android:scrollbars="none"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="UselessLeaf"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/abouttext"
+                tools:ignore="HardcodedText"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:linksClickable="true"
+
+                android:fontFamily="sans-serif"
+                android:typeface="monospace"
+                android:textStyle="normal|bold"
+                android:textAlignment="center"
+                tools:text="@string/about_text" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/privacytext"
+                android:gravity="center"
+
+                tools:ignore="HardcodedText,InefficientWeight"
+                android:layout_weight="5.18"
+                android:textSize="24sp"
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="normal|bold"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                tools:text="@string/privacypolicy_text" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+
+
+                android:id="@+id/adverstingtext"
+                tools:ignore="HardcodedText"
+                android:textStyle="normal|bold"
+                android:textAlignment="center"
+                android:fontFamily="sans-serif"
+                android:typeface="monospace"
+                android:layout_marginTop="10dp"
+                android:textSize="18sp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                tools:text="@string/adversting_text" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+
+                android:id="@+id/adsview"
+                tools:ignore="HardcodedText"
+                android:textSize="12sp"
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.60"
+                tools:text="@string/adversting_view" />
+
+            <TextView
+                android:text="BONUS"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:gravity="center"
+
+                android:id="@+id/googleprivacytext"
+                tools:ignore="HardcodedText"
+                android:textSize="12sp"
+                android:fontFamily="sans-serif"
+                android:typeface="monospace"
+                android:textStyle="normal|italic"
+                android:autoLink="web"
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColorLink="@color/linkcolor"
+                android:layout_marginStart="10dp"
+                tools:text="@string/privacy_google_link_text"
+                android:onClick="clickonfirstlink"
+                />
+
+
+            <TextView
+                android:text=""
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/displayedadstext"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+
+                android:typeface="monospace"
+                android:textAlignment="center"
+                android:textSize="12sp"
+                tools:ignore="HardcodedText"
+                android:layout_marginTop="10dp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                tools:text="@string/displayed_adstext" />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/moreinfolinlk"
+                android:textAlignment="center"
+                tools:ignore="HardcodedText"
+                android:textSize="12sp"
+                android:textColorLink="@color/linkcolor"
+                android:onClick="clickseconlink"
+                android:autoLink="web"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:textStyle="normal|italic"
+                tools:text="@string/displayed_adstext_link_text" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/changestext"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/changes_text" />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/changesview"
+                tools:ignore="HardcodedText"
+                android:textAlignment="center"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:textSize="12sp"
+                tools:text="@string/changes_view" />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/contacttext"
+                tools:ignore="HardcodedText"
+                android:textAlignment="center"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:textSize="18sp"
+                tools:text="@string/contact_text" />
+
+            <TextView
+                android:text="@string/e_mail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/emailtext"
+                android:textAlignment="center"
+                android:textStyle="normal|italic"
+                android:layout_margin="10dp"
+                android:onClick="clickthirdlink"
+                android:autoLink="email"
+                android:textColorLink="@color/linkcolor"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                tools:text="@string/e_mail"
+                />
+
+            <TextView
+                android:text="@string/version_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/versiontext"
+                android:fontFamily="sans-serif"
+                android:typeface="monospace"
+                android:textSize="12sp"
+                android:textAlignment="center"
+                android:gravity="center"
+
+                tools:ignore="HardcodedText"
+                android:layout_marginTop="10dp"
+                android:padding="10dp"
+                android:paddingBottom="5dp"
+                android:paddingEnd="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingStart="10dp"
+                android:paddingTop="20dp"
+                tools:text="@string/version_text" />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/versionname"
+                tools:text="@string/version_name"
+                tools:ignore="HardcodedText"
+                android:textAlignment="center"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

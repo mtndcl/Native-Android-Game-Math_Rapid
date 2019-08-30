@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_35284f8036276e1730667427998cd38356f34b02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_ec1b233f268543ac1b905b0e5529fd546e948075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-dynamic-links\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-dynamic-links-11.2.0_7d339f2c72e1fc4daeaeef5adaca5715c93f441e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="814b7c015442bfbedc29035e7afdfe383d893a03">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-11.2.0_53904fd9347479f495c038cb2433e446771fc6ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.2.0_a2320055290adad15cb112c4de10a1abb9d1b70f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-11.2.0_a85366752a5446e2d6e02e179f3059815ab56b3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="31aafe75ac42184d700ec3f862bf735c33ba201a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-games-11.2.0_7597faee8fafa7fb5bb738bbc364dc173b1b5d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-11.2.0_64cb636e517bb27f0d54055c0a15a38cadebf6d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision-common\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2df69841cd9793d6bfa2f78b7b7f4ea06d2296a7">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-common-11.2.0_19f890fa94449762c913d546a240b54440a87298\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-appindexing-11.2.0_dae1022e67e8f9a03f79211b57dc9d9d45bca957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-config-11.2.0_10c1529b6b461684fd459b7bdf38440c721adbad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="539c74d461960397d4c3f72623c72eb766569075">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-11.2.0_cd5eea9c02636a166e8ab17e379a271314c92e59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-11.2.0_3434429d0eabc78f4a2d5979b1cbd78b86008988\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-11.2.0_637fa5cc75340af024f6260983a928abe8148359.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-11.2.0_9157c1b0f6fd0f42bab6296a00558bd3fd96e89d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="694e2bf7a21fa46310a4a0309b9943060d573abe">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-11.2.0_79ecc7142d0f269793721b22873f5f0a349f1359\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.2.0_61df7cb54ea152a0afd0b620fa7c5b4b51345481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-11.2.0_e7f9596a1124456fb01b5d2f1348bf05ddc6b754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-11.2.0_e309d8cbaa90c73ce451037d88f0c583a5d999c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_61df7cb54ea152a0afd0b620fa7c5b4b51345481\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-11.2.0_485ad82c2fd4c369d2e139a9e9dc397ab770e139.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_b2fe2b858a53e93aa12a71eb00c1627d4c83f898\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-api-phone-11.2.0_d62d2079c22059bf74157ee4b6b4b662187b649d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6987a74958e42b559fd0eacef972173f59ba93bb">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-awareness-11.2.0_7654010fe293f938778f381b31846e066a96688d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c839ceb2113b00249e896c1c02ae15cdd8380345">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-11.2.0_143e7a6ab94ef4fcfb4a62b011988277e4634a74\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-11.2.0_9d0bda54cd7a14beceab9649501db982950c6cd4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-25.2.0_2751e97e14c4cb269f39638ee0913876b76463f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="010af21d7b95f7c975dd3d2fb2aa936a241b385b">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-plus-11.2.0_15824693cc853ddc04ce3d37c852ffd5a3976eb3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6a5692945e9d4bc34baddb4f7cb79070038f739">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-11.2.0_a725eea365d50a06fd0d3e01d0690cf10dfe553e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="171b54791d6ecec42ffc943bf9ea1a363ff6ab4f">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-11.2.0_2e9ee43ff0bb93595bc3779c9c186e8eddfdaaad\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a8ae88a3addcb045172d340c4d1e977cbd50c39">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-impl-11.2.0_32df2a232fc856c60ed0eb1b6031b14103072980.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_1af6cc580718eb4f6d29f3ecb055673683385939\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\support-annotations-25.2.0_b0f63a0de27844e31c4732b2a235b426df788ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-11.2.0_50c4a9b4f92a1782825ad7a791753afebdfdbabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.2.0_ec1b233f268543ac1b905b0e5529fd546e948075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-storage-common-11.2.0_8b26f414de377e73b3350b70b97b1104f8b91dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-dynamic-links\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-dynamic-links-11.2.0_7d339f2c72e1fc4daeaeef5adaca5715c93f441e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.2.0_35284f8036276e1730667427998cd38356f34b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision-common\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2df69841cd9793d6bfa2f78b7b7f4ea06d2296a7">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-vision-common-11.2.0_19f890fa94449762c913d546a240b54440a87298.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-11.2.0_49efa7afef304673d5783f39eb35e7c07afc15df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="31aafe75ac42184d700ec3f862bf735c33ba201a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-11.2.0_7597faee8fafa7fb5bb738bbc364dc173b1b5d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="103378d4e51581df4783e9e4a59a1775fe4f4104">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-11.2.0_2e18fc2389dbd599207408bc0636a903c1f8c1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.2.0_66d010a9fc1f367abb7b09ac4f8598e0c253648f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-11.2.0_637fa5cc75340af024f6260983a928abe8148359\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-crash-11.2.0_a85366752a5446e2d6e02e179f3059815ab56b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-location-11.2.0_3434429d0eabc78f4a2d5979b1cbd78b86008988.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-11.2.0_19c46ae8d2deecd5217570361d7e8b770f4dcda8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-11.2.0_e309d8cbaa90c73ce451037d88f0c583a5d999c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-11.2.0_e7f9596a1124456fb01b5d2f1348bf05ddc6b754\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-11.2.0_9157c1b0f6fd0f42bab6296a00558bd3fd96e89d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-11.2.0_09ef22afe8a0366cad2a7061dcde2ed1db12c6a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-places-11.2.0_6f53274cfd4336e79a1cd7a59eed4647045e247f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a93a72fe5e0ac12f4a8ff35c5a6ed651e142d10a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tagmanager-api-11.2.0_535a64b69851d4c18f71933b0e7cc1a05d20dea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c839ceb2113b00249e896c1c02ae15cdd8380345">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-identity-11.2.0_143e7a6ab94ef4fcfb4a62b011988277e4634a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.2.0_b2fe2b858a53e93aa12a71eb00c1627d4c83f898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="816a71eb5b0340d26db3056aa33f58dad108315b">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-vision-11.2.0_01dc09a2320d922daf6a8ba7da3ef0142f7cf925.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-11.2.0_d23e39f41cd0bd5a34a09f8ef89fc835de45ac7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.2.0_fb94e12a9d277111a0ee89936009d144dd88dbef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-mediarouter-v7-25.2.0_2751e97e14c4cb269f39638ee0913876b76463f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="171b54791d6ecec42ffc943bf9ea1a363ff6ab4f">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-11.2.0_2e9ee43ff0bb93595bc3779c9c186e8eddfdaaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6a5692945e9d4bc34baddb4f7cb79070038f739">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-safetynet-11.2.0_a725eea365d50a06fd0d3e01d0690cf10dfe553e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-11.2.0_9d0bda54cd7a14beceab9649501db982950c6cd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_b0f63a0de27844e31c4732b2a235b426df788ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-11.2.0_b4b71428b9d5311194e348d399d0a5c8699ed3cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3227957f15e5f672f35758c028cf3b94fb39b56d">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-11.2.0_ff13092075f785686dbc2e9dde86470551312308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-11.2.0_50c4a9b4f92a1782825ad7a791753afebdfdbabe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-11.2.0_8b26f414de377e73b3350b70b97b1104f8b91dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="309d0964d98262bebaf89b87aff98165df52ead6">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d9673bcf941c80a345057998e32d9e6b4012606c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83f83593e58b678e8e6b8db6cf1fd8fe0e22dfe1">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-nearby-11.2.0_3ef0f59b47fc461fa8ef5997bd6eba26a36ec656.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-11.2.0_09268ffbaa9a572489d9a1841a5ceb8ca7175dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc10e35f477578b1766c883d4a8561c207684531">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-drive-11.2.0_3c2b37fa9b59c87fe6ec73759967828bf222c01e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_fc2650540d85d6125143c7bb5fddffe0f36bde68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-11.2.0_71962dbd5979b3f28f37e38a166cae53ca6e5f7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="103378d4e51581df4783e9e4a59a1775fe4f4104">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-cast-framework-11.2.0_2e18fc2389dbd599207408bc0636a903c1f8c1da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e82b33733f801187c5b502d56fe1e3014de84b71">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-11.2.0_23b83a3ec1d16e6f9f6ed18cf31e1ad18c15cb97\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-11.2.0_19c46ae8d2deecd5217570361d7e8b770f4dcda8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-11.2.0_09ef22afe8a0366cad2a7061dcde2ed1db12c6a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd362e8a7451fb70f9d28498949c1be35e5a2e6e">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wearable-11.2.0_54897f37bc52857c54ae68b9d465128c5b2affcc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df812c448ef60fa0032ced451751ff98392b70a1">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-11.2.0_3d25ac3cc7f85c8d57773993e07c5930550b8bfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-11.2.0_acc997740cdf19f84c6c416ca35e3c21f996a405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a93a72fe5e0ac12f4a8ff35c5a6ed651e142d10a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-11.2.0_535a64b69851d4c18f71933b0e7cc1a05d20dea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5e24e901834850335a8bb7d95cf51ea1468a32a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-11.2.0_44e91d75debbce82da1e3f225dee0b6b9c5238ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ff3baea295d5079a6b54538c8eab744ea72b4cc">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tagmanager-11.2.0_7bb4abb192e041f3642c884175db8c1935b0a5eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a3ae2ca8e64cdda4ae59aef07e33226cb950f5c">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tagmanager-v4-impl-11.2.0_c3c6081e897796e7bf915cbaf022f5ae5dca06cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-storage-11.2.0_737253cf2b713b3c8288a2e4ff067a838b35ae06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fido\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3a0d55874ee03de768356d540983a20c95dd07a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-fido-11.2.0_89e292f47a0f6bfb7d0867aa23f3fd002828d652.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_fb94e12a9d277111a0ee89936009d144dd88dbef\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.2.0_fc2650540d85d6125143c7bb5fddffe0f36bde68.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_3114699176b8044137f13739b778c5ad16e9e7b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-11.2.0_6f53274cfd4336e79a1cd7a59eed4647045e247f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appinvite-11.2.0_d23e39f41cd0bd5a34a09f8ef89fc835de45ac7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-base-11.2.0_6ad4b5718e1d2266149b1ef8397a845bb98b7fb4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="816a71eb5b0340d26db3056aa33f58dad108315b">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-11.2.0_01dc09a2320d922daf6a8ba7da3ef0142f7cf925\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-11.2.0_49efa7afef304673d5783f39eb35e7c07afc15df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-11.2.0_f22aa134c00b72522b4135267b3e98b4460c54e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-11.2.0_b4b71428b9d5311194e348d399d0a5c8699ed3cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-11.2.0_64cb636e517bb27f0d54055c0a15a38cadebf6d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd362e8a7451fb70f9d28498949c1be35e5a2e6e">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-11.2.0_54897f37bc52857c54ae68b9d465128c5b2affcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3227957f15e5f672f35758c028cf3b94fb39b56d">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wallet-11.2.0_ff13092075f785686dbc2e9dde86470551312308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-11.2.0_09268ffbaa9a572489d9a1841a5ceb8ca7175dc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="814b7c015442bfbedc29035e7afdfe383d893a03">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-panorama-11.2.0_53904fd9347479f495c038cb2433e446771fc6ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_a2320055290adad15cb112c4de10a1abb9d1b70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83f83593e58b678e8e6b8db6cf1fd8fe0e22dfe1">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-11.2.0_3ef0f59b47fc461fa8ef5997bd6eba26a36ec656\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-connection-11.2.0_71962dbd5979b3f28f37e38a166cae53ca6e5f7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-11.2.0_10c1529b6b461684fd459b7bdf38440c721adbad\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e82b33733f801187c5b502d56fe1e3014de84b71">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-cast-11.2.0_23b83a3ec1d16e6f9f6ed18cf31e1ad18c15cb97.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc10e35f477578b1766c883d4a8561c207684531">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-11.2.0_3c2b37fa9b59c87fe6ec73759967828bf222c01e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="694e2bf7a21fa46310a4a0309b9943060d573abe">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-11.2.0_79ecc7142d0f269793721b22873f5f0a349f1359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="539c74d461960397d4c3f72623c72eb766569075">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-fitness-11.2.0_cd5eea9c02636a166e8ab17e379a271314c92e59.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-11.2.0_dae1022e67e8f9a03f79211b57dc9d9d45bca957\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-11.2.0_485ad82c2fd4c369d2e139a9e9dc397ab770e139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ff3baea295d5079a6b54538c8eab744ea72b4cc">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-11.2.0_7bb4abb192e041f3642c884175db8c1935b0a5eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a3ae2ca8e64cdda4ae59aef07e33226cb950f5c">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-11.2.0_c3c6081e897796e7bf915cbaf022f5ae5dca06cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df812c448ef60fa0032ced451751ff98392b70a1">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-11.2.0_3d25ac3cc7f85c8d57773993e07c5930550b8bfe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-11.2.0_737253cf2b713b3c8288a2e4ff067a838b35ae06\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5e24e901834850335a8bb7d95cf51ea1468a32a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-instantapps-11.2.0_44e91d75debbce82da1e3f225dee0b6b9c5238ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6987a74958e42b559fd0eacef972173f59ba93bb">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-11.2.0_7654010fe293f938778f381b31846e066a96688d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-palette-v7-25.2.0_66d010a9fc1f367abb7b09ac4f8598e0c253648f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fido\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3a0d55874ee03de768356d540983a20c95dd07a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fido-11.2.0_89e292f47a0f6bfb7d0867aa23f3fd002828d652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-api-phone-11.2.0_d62d2079c22059bf74157ee4b6b4b662187b649d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3b8e3a18aa188d457eff341e66c39c9c6800cdf">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a0907981e9d87edace1beca2a3ffc60b5a2cb419\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.2.0_3114699176b8044137f13739b778c5ad16e9e7b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-11.2.0_f22aa134c00b72522b4135267b3e98b4460c54e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="010af21d7b95f7c975dd3d2fb2aa936a241b385b">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-11.2.0_15824693cc853ddc04ce3d37c852ffd5a3976eb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a8ae88a3addcb045172d340c4d1e977cbd50c39">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-11.2.0_32df2a232fc856c60ed0eb1b6031b14103072980\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.2.0_1af6cc580718eb4f6d29f3ecb055673683385939.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-11.2.0_6ad4b5718e1d2266149b1ef8397a845bb98b7fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="C:\Users\mockingbird\Desktop\MATHHHH\MARHRAPID\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-11.2.0_acc997740cdf19f84c6c416ca35e3c21f996a405.jar" />
+    </item>
+
+</items>

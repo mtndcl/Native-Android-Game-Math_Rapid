@@ -1,0 +1,81 @@
+<resources>
+
+    <string name="app_name">Math Rapid</string>
+    <string name="rapıd_texet">RAPID</string>
+    <string name="math_text">MATH</string>
+    <string name="play_text">PLAY</string>
+    <string name="mode_text">MODE</string>
+    <string name="settings_text">SETTINGS</string>
+    <string name="about_text">ABOUT</string>
+    <string name="yes_text">YES</string>
+    <string name="not_now_text">NOT NOW</string>
+    <string name="rate_it_text">RATE IT!!</string>
+
+    <string name="rate_us">If you enjoy playing  MATH RAPID , please take a moment to rate it. Thanks for your support!</string>
+
+
+    ////////
+    <string name="privacy_google_link_text">Here is valid the private policy of Google.</string>
+    <string name="link0">https://policies.google.com/privacy</string>
+    <string name="link1">https://adssettings.google.com/authenticated?hl=en</string>
+    <string name="link2">Rexadanse17@gmail.com</string>
+
+    <string name="adversting_text">Advertising</string>
+    <string name="adversting_view">The advertising insertions become provided by
+        the advertising partner Google. Google uses your
+        device-ID for the production of demographic and interest categories. These demographic and
+        interest categories are used to personalise
+        advertisement.We have absolutely no influence on the collection
+        of personal data from Google.</string>
+
+    <string name="displayed_adstext">If you want to get displayed no interest-based
+    advertising, you can also deactivate it.</string>
+    <string name="displayed_adstext_link_text">For further information please click this link.</string>
+    <string name="changes_text">Changes</string>
+    <string name="changes_view"> We reserve the right to change, modify or amend
+    this Privacy Policy at any time.</string>
+    <string name="contact_text">Contact</string>
+    <string name="e_mail">Rexadanse17@gmail.com</string>
+    <string name="version_text">Version</string>
+    <string name="version_name">1.0.0</string>
+
+
+    <string name="privacypolicy_text">PRIVACY POLICY</string>
+
+    <string name="volume_text">VOLUME</string>
+    <string name="language_text">LANGUAGE</string>
+    <string name="language_name">ENGLISH</string>
+    <string name="time_text">TIME</string>
+    <string name="minute_text">MINUTE</string>
+    <string name="diffuculty_text">DIFFUCULLTY</string>
+    <string name="advanced_text">ADVANCED</string>
+    <string name="normal_text">NORMAL</string>
+    <string name="skip_text">SKIP</string>
+    <string name="undo_text">UNDO</string>
+    <string name="zerodivision_error_expa">YOU CANT DIVIDE ANY NUMBER TO 0 , TRY TO FIND ANOHTER WAY</string>
+    <string name="touch_to_disabled_text">TOUCH TO CONTIUNE</string>
+    <string name="asked_question_text">NUMBER OF QUESTIONS ASKED</string>
+    <string name="skip_question_text">SKİPPED</string>
+    <string name="time_per_question">TIME PER QUESTION</string>
+    <string name="best_time_per_question">RECORD</string>
+    <string name="replay_text">REPLAY</string>
+    <string name="ok_text">OK</string>
+    <string name="ı_got_text">YES I GOT</string>
+    <string name="how_play_text">HOW TO  PLAY</string>
+    <string name="touch_to_play_text">TOUCH TO PLAY</string>
+    <string name="thanks_view">THANK YOU FOR RATE MATH RAPID</string>
+    <string name="thats_my_score">THATS MY SCORE CAN YOU BEAT ME ?</string>
+    <string name="integer_error_expa">REMINDER MUST BE ZERO, TRY TO FIND ANOHTER WAY</string>
+    <string name="app_link">http://play.google.com/store/apps/details?id=com.nazo.mathrapid</string>
+
+
+
+
+
+
+
+
+
+
+
+</resources>

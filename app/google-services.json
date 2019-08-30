@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1064379411310",
+    "firebase_url": "https://math-rapid.firebaseio.com",
+    "project_id": "math-rapid",
+    "storage_bucket": "math-rapid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064379411310:android:aa927f5ad4f98568",
+        "android_client_info": {
+          "package_name": "com.nazo.mathrapid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064379411310-09g6qm46rf3svn7beke2ebihjvrp9caa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3cXQI8_L6GDoALcfeKYmTSNCEbkqGeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

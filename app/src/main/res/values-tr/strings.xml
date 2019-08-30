@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MATH RAPID</string>
+    <string name="about_text">HAKKINDA</string>
+    <string name="advanced_text">UZMAN</string>
+    <string name="changes_text">DEĞİŞİKLİKLER</string>
+    <string name="contact_text">BAĞLANTI</string>
+    <string name="diffuculty_text">ZORLUK</string>
+    <string name="e_mail">Rexadanse17@gmail.com</string>
+    <string name="language_name">TÜRKÇE</string>
+    <string name="language_text">DİL</string>
+    <string name="link2">Rexadanse17@gmail.com</string>
+    <string name="math_text">MATEMATİK</string>
+    <string name="minute_text">DAKİKA</string>
+    <string name="mode_text">MOD</string>
+    <string name="normal_text">NORMAL</string>
+    <string name="not_now_text">ŞİMDİ DEĞİL</string>
+    <string name="play_text">OYNA</string>
+    <string name="rapıd_texet">SERİ</string>
+    <string name="rate_it_text">OYLA !!</string>
+    <string name="rate_us">MATH RAPID\'i oynamaktan hoşlanıyorsanız, lütfen değerlendirmek için bir dakikanızı ayırın. Desteğiniz için teşekkürler!</string>
+    <string name="settings_text">AYARLAR</string>
+    <string name="time_text">ZAMAN</string>
+    <string name="version_name">1.0.0</string>
+    <string name="version_text">Versiyon</string>
+    <string name="volume_text">SES</string>
+    <string name="yes_text">EVET</string>
+    <string name="privacypolicy_text">GİZLİLİK POLİTİKASI</string>
+    <string name="privacy_google_link_text">Burada Google\'ın gizlilik politikası geçerlidir.</string>
+    <string name="link1">https://adssettings.google.com/authenticated?hl=tr</string>
+    <string name="link0">https://policies.google.com/privacy</string>
+    <string name="displayed_adstext_link_text">Daha fazla bilgi için lütfen buraya tıklayınız.</string>
+    <string name="displayed_adstext">İlgi alanınız dışında reklam görmek istemiyorsanız, bunu devre dışı bırakabilirsiniz.</string>
+    <string name="changes_view">Bu Gizlilik Politikasını herhangi bir zamanda değiştirme hakkımız saklıdır.</string>
+    <string name="adversting_view">Reklam eklemeleri Google reklam ortağı tarafından sağlanır. Google, demografik ve ilgi alanı kategorilerinin üretimi için cihaz kimliğinizi kullanır. Bu demografik ve ilgi alanı kategorileri, reklamı kişiselleştirmek için kullanılır. Google\'dan kişisel verilerin toplanması üzerinde kesinlikle uygulama ile hiçbir ilgisi yoktur.</string>
+    <string name="adversting_text">Reklam</string>
+    <string name="asked_question_text">SORULAN SORU SAYISI</string>
+    <string name="best_time_per_question">REKOR</string>
+    <string name="how_play_text">NASIL OYNANIR</string>
+    <string name="replay_text">TEKRAR OYNA</string>
+    <string name="skip_question_text">PAS</string>
+    <string name="skip_text">ATLA</string>
+    <string name="time_per_question">ORTALAMA ZAMAN</string>
+    <string name="touch_to_disabled_text">DEVAM ET</string>
+    <string name="touch_to_play_text">OYNA</string>
+    <string name="undo_text">GERİ</string>
+    <string name="zerodivision_error_expa">HİÇBİR SAYIYI 0\'A BÖLÜNEMEZ , BAŞKA YOL DENEYİNİZ</string>
+    <string name="thats_my_score">BENDEN DAHA İYİ BİR SKOR ELDE EDDEBİLİR MİSİN?</string>
+    <string name="thanks_view">OYLADIĞINIZ İÇİN TEŞEKKÜRLER.</string>
+    <string name="ok_text">TAMAM</string>
+    <string name="ı_got_text">EVET ANLADIM</string>
+    <string name="integer_error_expa">KALANIN 0 OLMASI GEREK BAŞKA BİR YOL BULMAYA ÇALIŞIN .</string>
+    <string name="app_link">http://play.google.com/store/apps/details?id=com.nazo.mathrapid</string>
+</resources>
